@@ -46,11 +46,9 @@ We aim to build a deep learning-based solution that can accurately forecast the 
 - CryptoCompare API → MySQL → Feature Engineering → LSTM Model → Prediction
 
 ### 2. Model Performance Graph  
-- Use a line plot comparing actual vs predicted prices
-- RMSE before vs after retraining (bar chart)
+## 📊 Actual vs Predicted Bitcoin Price
 
-### 3. Real-Time Pipeline  
-- Flowchart showing how real-time prediction works
+![Actual vs Predicted Chart](actual_vs_predicted.png)
 
 ---
 
