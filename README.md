@@ -54,7 +54,7 @@ We aim to build a deep learning-based solution that can accurately forecast the 
 
 ---
 
-##  Built With Love by:
+##  Built by:
 **astha** and **krupanshi**   
 A collaborative deep learning project
 
