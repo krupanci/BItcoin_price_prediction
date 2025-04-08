@@ -1,10 +1,10 @@
-<h1 align="center">📉 Bitcoin Price Prediction using LSTM (Real-Time)</h1>
+<h1 align="center"> Bitcoin Price Prediction using LSTM </h1>
 
 ---
 
-## 🧠 Problem Statement
+##  Problem Statement
 
-We aim to build a deep learning-based solution that can accurately forecast the **next-day Bitcoin closing price** using historical price data. Our focus was to use **real-time data**, preprocess it, and **retrain the model regularly** for better performance.
+We aim to build a deep learning-based solution that can  forecast the **next-day Bitcoin closing price** using historical price data. Our focus was to use **real-time data**, preprocess it, and **retrain the model regularly** for better performance.
 
 ---
 
